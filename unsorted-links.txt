@@ -9,11 +9,6 @@ https://giphy.com/create/gifmaker
 
 https://www.lipsum.com/
 
-## Email Services
-https://10minemail.com/
-https://temp-mail.org/en/
-https://maildrop.cc/
-
 ## SIM Services
 https://esimplans.com/
 
@@ -21,21 +16,8 @@ https://esimplans.com/
 https://coincards.com/us/
 
 ## 
-https://backgroundchecks.org/justdeleteme/ // Identify and delete useless personal accounts
-https://unroll.me/ // Get rid of useless inbox 'subscriptions'
-
-## Shopping Utilities
-https://camelcamelcamel.com/ // Find better deals on Amazon!
-
-## Self-hosting Services
-https://nextcloud.com/
-https://www.portainer.io/
-https://www.filestash.app/
-https://www.home-assistant.io/
-https://akaunting.com/
-https://jellyfin.org/
-
-
+https://backgroundchecks.org/justdeleteme/
+https://unroll.me/
 
 
 https://www.caffeineinformer.com/
