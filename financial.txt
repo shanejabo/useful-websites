@@ -1,4 +1,5 @@
 # Shopping
-https://camelcamelcamel.com/ // Find better deals on Amazon!
+https://camelcamelcamel.com/ // Scrape for deals on Amazon, and even get notified when prices drop
 
 # Gift Cards
+https://coincards.com/us/ // Purchase a giftcard with crypto (email delivery)
