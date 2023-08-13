@@ -1,4 +1,4 @@
-# Self-hosting Services
+# Self hosting
 https://www.portainer.io/
 https://www.filestash.app/
 https://jellyfin.org/
